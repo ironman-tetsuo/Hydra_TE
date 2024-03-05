@@ -7,4 +7,3 @@ To perform the analyses, the following softwares are required.
 - [R v4.3.2](https://www.r-project.org/)
 - [Juicer v1.6](https://github.com/aidenlab/juicer)
 - [BUSCO v5.4.6](https://busco.ezlab.org/)
-- 
