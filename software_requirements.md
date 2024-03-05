@@ -11,6 +11,7 @@ To perform the analyses, the following softwares are required.
 - [BUSCO v5.4.6](https://busco.ezlab.org/)
 - [BRAKER2 v 2.1.6](https://github.com/Gaius-Augustus/BRAKER)
 - [GffRead v0.12.7](https://github.com/gpertea/gffread)
+- [BEDTools v2.30.0](https://bedtools.readthedocs.io/en/latest/)
 - [eggNOG-Mapper v2.1.9](https://github.com/eggnogdb/eggnog-mapper)
 - [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/)
 - [RepeatMasker v4.1.6](https://www.repeatmasker.org/)
