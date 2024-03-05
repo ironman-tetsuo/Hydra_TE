@@ -2,6 +2,7 @@
 To perform the analyses, the following softwares are required.
 - [FastQC v0.12.1](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 - [BWA 0.7.13-r1126](http://bio-bwa.sourceforge.net/)
+- [minimap2 v2.26-r1175](https://github.com/lh3/minimap2)
 - [Samtools v1.19.2](http://www.htslib.org/)
 - [bcftools v1.19](https://samtools.github.io/bcftools/bcftools.html)
 - [R v4.3.2](https://www.r-project.org/)
