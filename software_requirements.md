@@ -10,3 +10,4 @@ To perform the analyses, the following softwares are required.
 - [BUSCO v5.4.6](https://busco.ezlab.org/)
 - [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/)
 - [RepeatMasker v4.1.6](https://www.repeatmasker.org/)
+- [nhmmscan v3.4](https://www.mankier.com/1/nhmmscan)
