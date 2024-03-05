@@ -10,6 +10,7 @@ To perform the analyses, the following softwares are required.
 - [3D-DNA v180922](https://github.com/aidenlab/3d-dna)
 - [BUSCO v5.4.6](https://busco.ezlab.org/)
 - [BRAKER2 v 2.1.6](https://github.com/Gaius-Augustus/BRAKER)
+- [GffRead v0.12.7](https://github.com/gpertea/gffread)
 - [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/)
 - [RepeatMasker v4.1.6](https://www.repeatmasker.org/)
 - [nhmmscan v3.4](https://www.mankier.com/1/nhmmscan)
@@ -20,3 +21,4 @@ To perform the analyses, the following softwares are required.
 - [SynVisio](https://synvisio.github.io/#/)
 - [Seurat v5.0.1](https://satijalab.org/seurat/)
 - [Alevin v1.2.1](https://salmon.readthedocs.io/en/latest/alevin.html)
+- [HISAT2 v 2.2.1](https://daehwankimlab.github.io/hisat2/)  
