@@ -13,4 +13,6 @@ To perform the analyses, the following softwares are required.
 - [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/)
 - [RepeatMasker v4.1.6](https://www.repeatmasker.org/)
 - [nhmmscan v3.4](https://www.mankier.com/1/nhmmscan)
-- [NCBI BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
+- [NCBI BLAST+ v2.15.0+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
+- [macrosyntR v0.3.3](https://github.com/SamiLhll/macrosyntR)
+- [MCScanX](https://github.com/wyp1125/MCScanX)
