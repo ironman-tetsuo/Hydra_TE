@@ -5,6 +5,6 @@ To perform the analyses, the following softwares are required.
 - [Samtools v1.19.2](http://www.htslib.org/)
 - [bcftools v1.19](https://samtools.github.io/bcftools/bcftools.html)
 - [R v4.3.2](https://www.r-project.org/)
-- [Juicer v1.6] (https://github.com/aidenlab/juicer)
-- [BUSCO v5.4.6] (https://busco.ezlab.org/)
+- [Juicer v1.6](https://github.com/aidenlab/juicer)
+- [BUSCO v5.4.6](https://busco.ezlab.org/)
 - 
