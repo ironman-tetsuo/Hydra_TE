@@ -8,3 +8,5 @@ To perform the analyses, the following softwares are required.
 - [Juicer v1.6](https://github.com/aidenlab/juicer)
 - [3D-DNA v180922](https://github.com/aidenlab/3d-dna)
 - [BUSCO v5.4.6](https://busco.ezlab.org/)
+- [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/)
+- [RepeatMasker v4.1.6](https://www.repeatmasker.org/)
