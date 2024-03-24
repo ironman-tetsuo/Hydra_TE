@@ -17,4 +17,5 @@ RepeatModeler \
 -srand 123  \
 -trf_dir ${trf_path}
 ```
-
+After RepeatModeler run, you got GENOME-families.fa file.  
+This file contains sequences of the resulting custom repeat library.
