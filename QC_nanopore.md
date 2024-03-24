@@ -1,3 +1,4 @@
+##Quality control analysis of Nanopore reads
 Installation of [NanoPlot v1.40.2](https://github.com/wdecoster/NanoPlot)
 #Install nanoplot
 ```
