@@ -16,6 +16,7 @@ This section describes data source for the analyses
 ## Repetitive element analysis
 - [Generation of custom repeat libraries using RepeatModeler](./running_repeatmodeler.md)
 - [Repeat detection for genome sequences using RepeatMasker](./Repeat_detection.md)
+- [Visualization of TE coverages](./Visualization_TEs.md)
 ## Structural variant analysis
 - [Quality control analysis of Nanopore reads](./QC_nanopore.md)
 - [Read mapping](./Read_mapping.md)
