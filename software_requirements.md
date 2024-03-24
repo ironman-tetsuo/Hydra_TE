@@ -23,4 +23,5 @@ To perform the analyses, the following softwares are required.
 - [SynVisio](https://synvisio.github.io/#/)
 - [Seurat v5.0.1](https://satijalab.org/seurat/)
 - [Alevin v1.2.1](https://salmon.readthedocs.io/en/latest/alevin.html)
-- [HISAT2 v 2.2.1](https://daehwankimlab.github.io/hisat2/)  
+- [HISAT2 v 2.2.1](https://daehwankimlab.github.io/hisat2/)
+- [NanoPlot v1.40.2](https://github.com/wdecoster/NanoPlot)
