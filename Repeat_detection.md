@@ -1,4 +1,4 @@
-Using GENOME-families.reheader.fa as a custom repeat library with refined annotation, RepeatMasker is performed on the genome sequences.
+Using GENOME-families.reheader.fa as a custom repeat library with refined annotation, [RepeatMasker v4.1.6](https://www.repeatmasker.org/) is performed on the genome sequences.
 ```
 #Copy a repeat library
 Library_name="GENOME-families.reheader.fa"
