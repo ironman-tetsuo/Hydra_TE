@@ -7,4 +7,5 @@ Thiis is the software requirements to perform analyses.
 - [Generation of custom repeat libraries using RepeatModeler](./running_repeatmodeler.md)
 - [Repeat detection for genome sequences using RepeatMasker](./Repeat_detection.md)
 ## Structural variant analysis
+- [Quality control analysis of Nanopore reads](./QC_nanopore.md)
 - [Read mapping](./Read_mapping.md)
