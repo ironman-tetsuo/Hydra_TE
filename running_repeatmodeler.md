@@ -37,3 +37,5 @@ Dfam.hmm \
 GENOME-families.fa \
 > /dev/null
 ```
+"tblout" file is the output file of hmmscan containing homologous sequences in the Dfam data base.  
+The initial "Unknown" sequences are replaced with these new annotations.
