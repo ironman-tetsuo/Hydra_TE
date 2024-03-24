@@ -1,4 +1,9 @@
-
+# Visualization of TE coverages
+In order to visualize the TE coverages across species, start the R program.
+```
+R
+```
+Then, follows the below scripts to visualize the TE coverage.
 ```
 # Load necessary libraries
 library(ComplexHeatmap)
