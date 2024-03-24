@@ -21,4 +21,7 @@ This section describes data source for the analyses
 - [Quality control analysis of Nanopore reads](./QC_nanopore.md)
 - [Read mapping](./Read_mapping.md)
 - [SV calling](./SV_calling.md)
+## Quantification of TE expression
+- Iso-seq
+- Bulk-RNA-seq
 
