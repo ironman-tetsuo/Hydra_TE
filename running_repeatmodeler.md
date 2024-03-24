@@ -1,7 +1,7 @@
 # Running RepeatModeler
 In order to generate a custom repeat library from a genome assembly, we performed [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/) on it as follows:
 ```
-#Variable
+#Variables
 INPUT="GENOME"
 Extension="fna"
 trf_path="path_to_trf_bin_dir"
@@ -25,10 +25,12 @@ wget https://www.dfam.org/releases/Dfam_3.8/families/Dfam.hmm.gz
 ```
 Subseqeuntly, homologous sequence of each sequence of the custom repeat library in Dfam 3.8 using [nhmmscan v3.4](https://www.mankier.com/1/nhmmscan).
 ```
-nhmmscan \
---tblout $TMPDIR/tblout \
---cpu ${thread} \
-$ARRAYTMPDIR/chunk.${HMMCHUNK} \
-chunks/seq/chunk.$SEQCHUNK \
+#Variables
+thread=4
 
+nhmmscan \
+--tblout tblout \
+--cpu ${thread} \
+Dfam.hmm \
+GENOME-families.fa \
 ```
