@@ -8,5 +8,6 @@ RepeatModeler \
 -threads 8 \
 -LTRStruct  \
 -srand 123  \
--trf_dir ${trf_path}`
+-trf_dir ${trf_path}
 ```
+
