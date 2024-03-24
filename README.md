@@ -6,3 +6,5 @@ Thiis is the software requirements to perform analyses.
 ## Repetitive element analysis
 - [Generation of custom repeat libraries using RepeatModeler](./running_repeatmodeler.md)
 - [Repeat detection for genome sequences using RepeatMasker](./Repeat_detection.md)
+## Structural variant analysis
+- [Read mapping](./Read_mapping.md)
