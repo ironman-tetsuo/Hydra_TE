@@ -22,6 +22,6 @@ This section describes data source for the analyses
 - [Read mapping](./Read_mapping.md)
 - [SV calling](./SV_calling.md)
 ## Quantification of TE expression
-- [Iso-seq](./Iso-seq.md)
-- [Bulk-RNA-seq](./Bulk-RNA-seq.md)
+- [Quantification of Iso-seq data](./Iso-seq.md)
+- [Quantification of Bulk-RNA-seq](./Bulk-RNA-seq.md)
 
