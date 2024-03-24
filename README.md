@@ -19,3 +19,5 @@ This section describes data source for the analyses
 ## Structural variant analysis
 - [Quality control analysis of Nanopore reads](./QC_nanopore.md)
 - [Read mapping](./Read_mapping.md)
+- [SV calling](./SV_calling.md)
+
