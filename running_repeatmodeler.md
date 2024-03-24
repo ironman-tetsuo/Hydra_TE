@@ -32,5 +32,5 @@ nhmmscan \
 --tblout tblout \
 --cpu ${thread} \
 Dfam.hmm \
-GENOME-families.fa \
+GENOME-families.fa
 ```
