@@ -4,3 +4,4 @@ Hydra is a freshwater cnidarian known for its remarkable regenerative abilities,
 Thiis is the software requirements to perform analyses.
 - [List of required softwares](./software_requirements.md)  
 ## Repetitive element analysis
+- [Running RepeatModeler]/(./running_repeatmodeler.md)
