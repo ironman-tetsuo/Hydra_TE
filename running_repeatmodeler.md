@@ -19,3 +19,16 @@ RepeatModeler \
 ```
 After RepeatModeler run, you got GENOME-families.fa file.  
 This file contains sequences of the resulting custom repeat library.
+To search for homologous sequences in the Dfam 3.8 database, firstly you need to download the hmm file of the database as follows:
+```
+wget https://www.dfam.org/releases/Dfam_3.8/families/Dfam.hmm.gz
+```
+Subseqeuntly, homologous sequence of each sequence of the custom repeat library in Dfam 3.8 using [nhmmscan].
+```
+nhmmscan \
+--tblout $TMPDIR/tblout \
+--cpu ${thread} \
+$ARRAYTMPDIR/chunk.${HMMCHUNK} \
+chunks/seq/chunk.$SEQCHUNK \
+
+```
