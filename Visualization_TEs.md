@@ -5,6 +5,7 @@ library(circlize)
 
 #Load object
 dat_3_non_zero_TEproportion <- readRDS("dat_3_non_zero_TEproportion.rds")
+MyColors <- readRDS("MyColors.rds")
 
 #Declare TE major class
 CLASS <- c(
