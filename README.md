@@ -5,3 +5,4 @@ Thiis is the software requirements to perform analyses.
 - [List of required softwares](./software_requirements.md)  
 ## Repetitive element analysis
 - [Generation of custom repeat libraries using RepeatModeler](./running_repeatmodeler.md)
+- [Repeat detection for genome sequences using RepeatMasker](./Repeat_detection.md)
