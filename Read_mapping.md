@@ -2,11 +2,11 @@
 To perform the nanopore reads to the genome assembly, [minimap2 v2.26-r1175](https://github.com/lh3/minimap2) is used.
 ```
 thread=48
-reference_path="/scratch/molevo/kon/Projects/Project_hydra_genome_analysis/220708_public_AEP_RepeatModeler_RepeatMasker/RepeatModeler/HVAEP.genome.fa"
+reference_path="GENOME.fa"
 
-fastq_path=(`tail -n +2 metafiles/Hydra_SV_Sequencing_Samples_Table_v4.txt | awk '{print $4}' | xargs`)
-FileNames=(`tail -n +2 metafiles/Hydra_SV_Sequencing_Samples_Table_v4.txt | awk '{print $5}' | xargs`)
-SampleNames=(`tail -n +2 metafiles/Hydra_SV_Sequencing_Samples_Table_v4.txt | awk '{print $2}' | xargs`)
+fastq_path=(path1 path2...)
+FileNames=(name1 name2...)
+SampleNames=(sample1 sample2...)
 
 for i in `seq 0 $((${#SampleNames[@]}-1))`; do
 minimap2 \
