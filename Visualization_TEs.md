@@ -6,6 +6,21 @@ library(circlize)
 #Load object
 dat_3_non_zero_TEproportion <- readRDS("dat_3_non_zero_TEproportion.rds")
 
+#Declare TE major class
+CLASS <- c(
+"SINE",
+"LINE",
+"LTR",
+"DNA",
+"RC",
+"Unknown",
+"Others"
+)
+
+#Colors
+COLOR <- c("#CCBFFF", "#654CFF", "#32FF00", "#E51932","#FF99BF","grey", "white")
+names(COLOR) <- CLASS
+
 #Gradation from white to black
 my_palette <- colorRampPalette(c("blue", "red"))(100)
 
