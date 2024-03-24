@@ -4,3 +4,6 @@ Genome assemblies for hydra genomes are available in the NCBI database under Bio
 
 __Raw sequencing reads__:    
 The sequencing reads are available in the NCBI database under BioProject accession number PRJNA1085048.
+
+__Dfam v3.8__:  
+https://www.dfam.org/releases/Dfam_3.8/families/Dfam.hmm.gz
