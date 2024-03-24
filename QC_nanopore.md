@@ -1,8 +1,9 @@
+Installation of [NanoPlot v1.40.2](https://github.com/wdecoster/NanoPlot)
 #Install nanoplot
 ```
 conda install -c bioconda nanoplot
 ```
-#Run nanoplot
+To run nanoplot, run the following script.
 ```
 #Declare variables
 thread=1
