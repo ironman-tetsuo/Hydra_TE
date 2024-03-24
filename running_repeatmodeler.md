@@ -23,7 +23,7 @@ To search for homologous sequences in the Dfam 3.8 database, firstly you need to
 ```
 wget https://www.dfam.org/releases/Dfam_3.8/families/Dfam.hmm.gz
 ```
-Subseqeuntly, homologous sequence of each sequence of the custom repeat library in Dfam 3.8 using [nhmmscan].
+Subseqeuntly, homologous sequence of each sequence of the custom repeat library in Dfam 3.8 using [nhmmscan v3.4](https://www.mankier.com/1/nhmmscan).
 ```
 nhmmscan \
 --tblout $TMPDIR/tblout \
