@@ -1,8 +1,15 @@
 # Running RepeatModeler
 In order to generate a custom repeat library from a genome assembly, we performed [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/) on it as follows:
 ```
-INPUT=GENOME.fa
-trf_path=path_to_trf_bin_dir
+#Variable
+INPUT="GENOME"
+Extension="fna"
+trf_path="path_to_trf_bin_dir"
+
+#Build database for RepeatModeler
+BuildDatabase -name ${INPUT} ${INPUT}.${Extension}
+
+#Perform RepeatModeler
 RepeatModeler \
 -database ${INPUT}  \
 -threads 8 \
