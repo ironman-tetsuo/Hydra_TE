@@ -9,7 +9,8 @@ bioRxiv 2024.03.13.584568; doi: https://doi.org/10.1101/2024.03.13.584568
 
 ## Software requirements
 Thi is the software requirements to perform analyses.
-- [List of required softwares](./software_requirements.md)  
+- [List of required softwares](./software_requirements.md)
+- [List of references for softwares](./references.md)
 ## Data source
 This section describes data source for the analyses
 - [List of data source](./Data_source.md)  
