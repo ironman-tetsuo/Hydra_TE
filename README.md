@@ -25,3 +25,5 @@ This section describes data source for the analyses
 - [Quantification of Iso-seq data](./Iso-seq.md)
 - [Quantification of Bulk-RNA-seq](./Bulk-RNA-seq.md)
 
+## Analysis of chromatin organization
+- [Extraction hi-c contact siganal for quantitative analyses](./HiC_extraction.md)
