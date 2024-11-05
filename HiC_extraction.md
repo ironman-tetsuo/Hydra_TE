@@ -1,11 +1,11 @@
-#Extraction Hi-C contact siganal for quantitative analyses \\
+#Extraction Hi-C contact siganal for quantitative analyses
 
 ```
 import numpy as np
 import hicstraw
 import os
 
-# 領域定義ファイルの読み込み
+# Import the file which defines chroosome length
 region_file = '../chromosome_length.txt_v3'
 regions = []
 
@@ -15,14 +15,14 @@ with open(region_file, 'r') as f:
         if line:
             regions.append(line.split(':'))
 
-# Hi-Cファイルの指定
+# Path to HiC file
 hic_file = '../HydraT2T_v1.0.fasta.masked_30.hic'
 
-# 出力ディレクトリの作成
+# Out put directory
 output_dir = 'output_regions'
 os.makedirs(output_dir, exist_ok=True)
 
-# 領域ごとにデータを取得し、ファイルに書き出し
+# For each region, ouput data
 for idx, region in enumerate(regions):
     chrom, start, end = region
     start, end = int(start), int(end)
