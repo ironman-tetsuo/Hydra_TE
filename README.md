@@ -26,4 +26,4 @@ This section describes data source for the analyses
 - [Quantification of Bulk-RNA-seq](./Bulk-RNA-seq.md)
 
 ## Analysis of chromatin organization
-- [Extraction hi-c contact siganal for quantitative analyses](./HiC_extraction.md)
+- [Extraction Hi-C contact siganal for quantitative analyses](./HiC_extraction.md)
