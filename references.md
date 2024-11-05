@@ -1,3 +1,5 @@
+# List of references for softwares
+These are the list of references for the sofwares which have been used for thise project.
 1.	Chomczynski, P. & Sacchi, N. Single-step method of RNA isolation by acid guanidinium thiocyanate-phenol-chloroform extraction. Anal. Biochem. 162, 156–9 (1987).
 2.	Simakov, O. et al. Deeply conserved synteny and the evolution of metazoan chromosomes. Sci. Adv. 8, eabi5884 (2022).
 3.	Marçais, G. & Kingsford, C. A fast, lock-free approach for efficient parallel counting of occurrences of k -mers. Bioinformatics 27, 764–770 (2011).
