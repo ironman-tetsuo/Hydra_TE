@@ -7,7 +7,7 @@ __The dynamic genomes of Hydra and the anciently active repeat complement of ani
 Koto Kon-Nanjo, Tetsuo Kon, Tracy Chih-Ting Koubkova Yu, Diego Rodriguez-Terrones, Francisco Falcon, Daniel E. Martínez, Robert E. Steele, Elly Margaret Tanaka, Thomas W. Holstein, Oleg Simakov  
 bioRxiv 2024.03.13.584568; doi: https://doi.org/10.1101/2024.03.13.584568  
 
-[./Figures/Figure_phylogeny.jpg]
+[./images/Figure_phylogeny.jpg]
 
 ## Software requirements
 Thi is the software requirements to perform analyses.
