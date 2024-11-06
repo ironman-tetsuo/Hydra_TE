@@ -1,5 +1,6 @@
 # Visualization of TE coverages
 In order to visualize the TE coverages across species, start the R program.
+- [heatmap.R](scripts/heatmap.R)
 ```
 R
 ```
