@@ -3,7 +3,7 @@
 #Generate an index for the genome assembly
 hisat2-build genome.fa genome
 
-#サンプル名を配列に格納
+#Declare variable
 SampleNames=(sample1 sample2...)
 
 #Path to genome 
