@@ -1,5 +1,5 @@
 # Quantification of Bulk-RNA-seq
-- [run_hisat2.sh](scripts/run_hisat2.s)
+- [run_hisat2.sh](scripts/run_hisat2.sh)
 ```
 #Generate an index for the genome assembly
 hisat2-build genome.fa genome
@@ -40,6 +40,7 @@ done
 ```
 
 To quantifiy TE expression from bam file, the script is as follows:
+- [run_featureCounts.sh](scripts/run_featureCounts.sh)
 ```
 #FeatureCount from mapped reads
 thread=48
