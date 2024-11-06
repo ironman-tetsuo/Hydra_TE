@@ -1,6 +1,6 @@
 # Running RepeatModeler
 In order to generate a custom repeat library from a genome assembly, we performed [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/) on it as follows:
-- [run_nhmmscan.sh](scripts/run_nhmmscan.sh)
+- [run_RepeatModeler.sh](scripts/run_RepeatModeler.sh)
 ```
 #Variables
 INPUT="GENOME"
