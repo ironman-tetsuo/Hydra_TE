@@ -38,6 +38,6 @@ GENOME-families.fa \
 > /dev/null
 ```
 "tblout" file is the output file of hmmscan containing homologous sequences in the Dfam data base.  
-The initial "Unknown" sequences are replaced with these new annotations.
-Note that the nhmmscan step is computationally intensive, so dividing query sequences into several batches are recommended.
-The option of "--cpu" should be around 4 in order to avoid memory overload to your computing server.
+The initial "Unknown" sequences are replaced with these new annotations.  
+Note that the nhmmscan step is computationally intensive, so dividing query sequences into several batches are recommended.  
+The option of "--cpu" should be around 4 in order to avoid memory overload to your computing server.  
