@@ -1,4 +1,4 @@
-#Extraction Hi-C contact siganal for quantitative analyses
+# Extraction Hi-C contact siganal for quantitative analyses
 
 ```
 import numpy as np
