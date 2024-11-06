@@ -30,7 +30,7 @@ samtools index ${SampleNames[${i}]}.sort.bam
 done
 ```
 
-In order to extract the Hi-C contact signal from .hic format file, conduct the following script:
+From the aligned ATAC-seq reads, open chromatin reads can be identified with the following script:
 - [run_MACS3.sh](scripts/run_MACS3.sh)
 ```
 #!/bin/bash
