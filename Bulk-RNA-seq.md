@@ -1,4 +1,5 @@
 # Quantification of Bulk-RNA-seq
+- [run_hisat2.sh](scripts/run_hisat2.s)
 ```
 #Generate an index for the genome assembly
 hisat2-build genome.fa genome
