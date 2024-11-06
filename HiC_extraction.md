@@ -1,5 +1,6 @@
 # Extraction Hi-C contact siganal for quantitative analyses
-
+In order to extract the Hi-C contact signal from .hic format file, conduct the following script:
+- [run_hicstraw.py](scripts/run_hicstraw.py)
 ```
 import numpy as np
 import hicstraw
