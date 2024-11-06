@@ -1,5 +1,6 @@
 # Quantification of Iso-seq data
 To identify TE transcripts in the Iso-seq reads, blastn search can be used.
+- [analysis_Iso-seq.sh](scripts/analysis_Iso-seq.sh)
 ```
 #Database generation from a repeat library
 blastdb="Repeat_library.fasta"
