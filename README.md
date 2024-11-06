@@ -28,8 +28,8 @@ This section describes data source for the analyses
 - [Quantification of Iso-seq data](./Iso-seq.md)
 - [Quantification of Bulk-RNA-seq](./Bulk-RNA-seq.md)
 
-## Analysis of open chromatin regions
-- [Identification of open chromatin regions from ATAC-seq reads](./ATAC-seq.md)
+## Identification of open chromatin regions
+- [Analysis of open chromatin regions from ATAC-seq reads](./ATAC-seq.md)
 
 ## Analysis of chromatin organization
 - [Extraction Hi-C contact siganal for quantitative analyses](./HiC_extraction.md)
