@@ -1,5 +1,6 @@
 # SV calling
 Fistly, SV calling by individual is performed as follows:
+- [run_sniffles.sh](scripts/run_sniffles.sh)
 ```
 #Variables
 bam_path=(path1 path2...)
