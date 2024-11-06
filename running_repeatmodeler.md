@@ -1,5 +1,6 @@
 # Running RepeatModeler
 In order to generate a custom repeat library from a genome assembly, we performed [RepeatModeler v2.0.5](https://www.repeatmasker.org/RepeatModeler/) on it as follows:
+[run_nhmmscan.sh](scripts/run_nhmmscan.sh)
 ```
 #Variables
 INPUT="GENOME"
@@ -26,6 +27,7 @@ gunzip Dfam.hmm.gz
 hmmpress Dfam.hmm
 ```
 Subseqeuntly, homologous sequence of each sequence of the custom repeat library in Dfam 3.8 using [nhmmscan v3.4](https://www.mankier.com/1/nhmmscan).
+[run_RepeatModeler.sh](scripts/run_RepeatModeler.sh)
 ```
 #Variables
 thread=4
