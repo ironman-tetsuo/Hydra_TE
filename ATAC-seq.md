@@ -1,8 +1,7 @@
 # Analysis of open chromatin regions from ATAC-seq reads
 For aligning ATAC-seq reads to the genome assembly, perform the following script:
-
+- [run_BWA.sh](scripts/run_BWA.sh)
 ```
-
 #!/bin/bash
 #SBATCH --job-name=bwa_mem
 #SBATCH --cpus-per-task=48
