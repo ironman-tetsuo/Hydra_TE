@@ -1,5 +1,6 @@
 # Read mapping
 To perform the nanopore reads to the genome assembly, [minimap2 v2.26-r1175](https://github.com/lh3/minimap2) is used.
+- [run_minimap2.sh](scripts/run_minimap2.sh)
 ```
 thread=48
 reference_path="GENOME.fa"
